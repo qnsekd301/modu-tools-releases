@@ -1,6 +1,6 @@
-# 모두의 도구 허브 1.8.1
+# 모두의 도구 허브 1.9.1
 
-[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.1-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.8.1-2fa1028271aa.zip)
+[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.9.1-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.9.1-2d99976e8cb5.zip)
 
 필요한 도구만 설치하고 자동으로 업데이트합니다.
 
@@ -15,7 +15,7 @@
 
 PDF·ZIP·와이파이는 바탕화면 아이콘을 만들지 않습니다. 기존 허브의 해당 아이콘은 확인된 것만 백업합니다. ZIP과 Wi-Fi는 기존 Windows 프로그램의 --worker / --run 명령을 그대로 사용합니다. Wi-Fi 시작 작업은 한 번의 관리자 승인이 필요합니다. 변경은 다음 로그인부터 적용하며 현재 네트워크를 바꾸지 않습니다.
 
-허브와 도구별 사용법은 3~6단계입니다. 단계마다 조작 방법과 결과 확인을 나누어 안내합니다. 현재 안내하는 버튼·입력칸과 안내 카드만 밝게 표시하고 나머지는 어둡게 처리합니다. 설치 항목·시작 설정 창을 열면 해당 창을 밝힙니다. 화면 크기가 바뀌거나 스크롤해도 강조 영역이 따라가며, Esc·나중에로 닫으면 원래 화면으로 돌아갑니다. 진행 상태는 기억하고 허브의 사용법 또는 ?에서 다시 엽니다.
+사용법을 누르면 설치된 실제 프로그램과 조작 화면을 열어 3~6단계로 안내합니다. Mac 쉬운성경은 실제 터미널 안에 사용법을 표시합니다. 단계마다 조작 방법과 결과 확인을 나누어 안내합니다. 현재 안내하는 버튼·입력칸과 안내 카드만 밝게 표시하고 나머지는 어둡게 처리합니다. 설치 항목·시작 설정 창을 열면 해당 창을 밝힙니다. 화면 크기가 바뀌거나 스크롤해도 강조 영역이 따라가며, Esc·나중에로 닫으면 원래 화면으로 돌아갑니다. 진행 상태는 기억하고 허브의 사용법 또는 ?에서 다시 엽니다.
 
 Mac 설치: ZIP 전체를 풀고 맥에 설치.command를 실행합니다. macOS 13 이상, Intel·Apple Silicon. Apple Developer 가입·Python·Homebrew 별도 설치는 필요하지 않습니다. **Mac 실기기에서 실행·권한·자동 시작·교체는 아직 미검증입니다.** 두 CPU 번들, Finder 서비스 파일, 선택 파일 전달, PDF 배치, 화면과 체크섬을 검사했습니다.
 
