@@ -1,12 +1,12 @@
-version: 1.3.0
+version: 1.4.0
 files:
   - url: >-
-      https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.3.0-win-x64.exe
+      https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.4.0-win-x64.exe
     sha512: >-
-      yAP52mQuuMXGzB2CiiH14znkbJSOyrnVkY4UUW/ByCkdf0fpIOg68GiLk5PPZgbZ/8yquKtB0NQk3NcKj/A8eA==
-    size: 120848327
+      hj7mWtuqS2glg2BSltZCX0pH6bEiP6CBB3cz0/Z5duipFdw6/sLhbKiHjf1D341UzaojIQ4po2EvDrzFPX7u7Q==
+    size: 120853332
 path: >-
-  https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.3.0-win-x64.exe
+  https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.4.0-win-x64.exe
 sha512: >-
-  yAP52mQuuMXGzB2CiiH14znkbJSOyrnVkY4UUW/ByCkdf0fpIOg68GiLk5PPZgbZ/8yquKtB0NQk3NcKj/A8eA==
-releaseDate: '2026-10-24T14:12:38.106Z'
+  hj7mWtuqS2glg2BSltZCX0pH6bEiP6CBB3cz0/Z5duipFdw6/sLhbKiHjf1D341UzaojIQ4po2EvDrzFPX7u7Q==
+releaseDate: '2026-10-24T15:01:56.424Z'
