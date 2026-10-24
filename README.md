@@ -1,6 +1,6 @@
-# 모두의 도구 허브 1.8.0
+# 모두의 도구 허브 1.8.1
 
-[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.0-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.8.0-d7672bfbc486.zip)
+[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.1-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.8.1-2fa1028271aa.zip)
 
 필요한 도구만 설치하고 자동으로 업데이트합니다.
 
