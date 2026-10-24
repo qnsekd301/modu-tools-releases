@@ -1,8 +1,10 @@
-# 모두의 도구 허브 1.6.0
+# 모두의 도구 허브 1.7.0
 
-[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.6.0-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.6.0-8d0b8d4ec87b.zip)
+[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.7.0-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.7.0-0f90266e5b1b.zip)
 
 필요한 도구만 설치하고 자동으로 업데이트합니다.
+
+도구 카드의 **삭제**에서 사용자가 직접 제거합니다. 프로그램·바로가기·자동 실행을 정리하며 다운로드·문서와 별도 사용자 자료는 유지합니다. 삭제한 도구는 자동 업데이트로 다시 설치하지 않습니다. 다시 필요하면 설치하기를 누릅니다.
 
 | 도구 | 실행 위치 |
 |---|---|
