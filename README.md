@@ -1,6 +1,6 @@
 # 모두의 도구 허브
 
-[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.4.1-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.4.1-c767c3585cc2.zip)
+[Windows 설치](https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.5.0-win-x64.exe) · [Mac 설치 ZIP](https://github.com/qnsekd301/modu-tools-releases/releases/download/packages/mac-installer-darwin-any-1.5.0-dfd4fa4821ce.zip)
 
 허브에서 필요한 도구만 설치한 뒤 바탕화면의 각 도구 아이콘으로 실행하세요.
 쉬운성경은 Windows CMD / Mac 터미널에서 실행합니다. 허브는 설치와 업데이트를 관리합니다.
