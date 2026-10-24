@@ -1,12 +1,12 @@
-version: 1.8.0
+version: 1.8.1
 files:
   - url: >-
-      https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.0-win-x64.exe
+      https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.1-win-x64.exe
     sha512: >-
-      AMXLrry8v75P7S7LvGIVbCzAsHlpS7tjCamn4kYE3vmSKWe7Nvy4b6bfcEgUBOQhXs1DGTy3q9u6SFpdM3yMYg==
-    size: 120876924
+      iKm7cC70ytSpJRRyzzyi6UBYtEMpL1FKQLv/x45G4cZ+McWW1LLXX6sG72BPWlsVaWWtOvWUU4dsTfYQ6iDgQw==
+    size: 120878711
 path: >-
-  https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.0-win-x64.exe
+  https://github.com/qnsekd301/modu-tools-releases/releases/download/hub-win32-x64/ModuHub-Setup-1.8.1-win-x64.exe
 sha512: >-
-  AMXLrry8v75P7S7LvGIVbCzAsHlpS7tjCamn4kYE3vmSKWe7Nvy4b6bfcEgUBOQhXs1DGTy3q9u6SFpdM3yMYg==
-releaseDate: '2026-10-24T17:54:43.526Z'
+  iKm7cC70ytSpJRRyzzyi6UBYtEMpL1FKQLv/x45G4cZ+McWW1LLXX6sG72BPWlsVaWWtOvWUU4dsTfYQ6iDgQw==
+releaseDate: '2026-10-24T22:26:10.196Z'
